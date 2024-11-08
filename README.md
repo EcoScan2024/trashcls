@@ -1,4 +1,4 @@
-# AI-N.FesT
+# EcoScan 2024
 
 ## Installation
 
